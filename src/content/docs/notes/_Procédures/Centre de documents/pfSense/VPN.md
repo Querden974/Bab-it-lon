@@ -1,0 +1,123 @@
+---
+title: VPN
+editUrl: false
+---
+
+**Auteur :** Gautier RAYEROUX, Eric JAMET, David GEMAIN  |  **Date :** 08/01/2025
+
+***
+
+## Prérequis
+
+* Le package **openvpn-client-export** doit être installé (voir étape 4)
+* Le serveur **RADIUS** doit être configuré si l'authentification RADIUS est souhaitée (voir [RADIUS](/notes/_procédures/centre-de-documents/pfsense/radius))
+
+***
+
+## 1. Création de l'autorité de certification (CA)
+
+1. Aller dans **System** → **Certificates** → onglet **« Authorities »**
+2. Créer un nouveau certificat d'autorité
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 89.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-89.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 90.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-90.png)
+
+***
+
+## 2. Créer le certificat serveur
+
+1. Aller dans **System** → **Certificates** → onglet **« Certificates »**
+2. Cliquer sur **« Add/Sign »**
+3. Sélectionner la CA créée à l'étape précédente
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 91.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-91.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 92.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-92.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 93.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-93.png)
+
+***
+
+## 3. Créer les utilisateurs locaux (authentification locale)
+
+Si vous n'utilisez pas RADIUS, créer les utilisateurs directement dans pfSense :
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 94.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-94.png)
+
+***
+
+## 4. Configurer le serveur OpenVPN
+
+1. Aller dans **VPN** → **OpenVPN** → onglet **« Servers »**, puis cliquer sur **« Add »**
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 95.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-95.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 96.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-96.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 97.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-97.png)
+
+### Paramètres clés
+
+| Paramètre                  | Description                                                                             |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| **IPv4 Tunnel Network**    | Réseau VPN attribué aux clients — chaque client connecté reçoit une IP dans ce réseau   |
+| **Redirect IPv4 Gateway**  | Si coché : **full tunnel** (tout le trafic passe dans le VPN). Sinon : **split-tunnel** |
+| **IPv4 Local network**     | Réseaux LAN accessibles via le VPN (séparer par des virgules si plusieurs)              |
+| **Concurrent connections** | Nombre de connexions VPN simultanées autorisées                                         |
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 98.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-98.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 99.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-99.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 100.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-100.png)
+
+***
+
+## 5. Exporter la configuration OpenVPN pour le client
+
+1. Aller dans **System** → **Package Manager** → **Available Packages**
+2. Rechercher **« openvpn-client-export »** et l'installer
+
+:::note
+Si aucun paquet n'est trouvé, passer en mode Shell sur l'interface CLI et exécuter :
+
+```plain text
+pkg update
+```
+
+:::
+
+3. Une fois installé, aller dans **VPN** → **OpenVPN** → **Client Export**
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 101.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-101.png)
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 102.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-102.png)
+
+4. Cliquer sur **« Save as default »**
+5. Dans la section **OpenVPN Clients**, cliquer sur **« Archive »** pour télécharger l'archive de configuration
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 103.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-103.png)
+
+6. Installer la configuration dans le dossier `config` sur le PC client
+
+***
+
+## 6. Créer les règles de pare-feu pour OpenVPN
+
+### 6.1 Autoriser le flux OpenVPN entrant (WAN)
+
+Ajouter une nouvelle règle dans **Firewall** → **Rules** → **WAN** :
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 104.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-104.png)
+
+### 6.2 Autoriser les flux vers les ressources (interface OpenVPN)
+
+Ajouter les règles en fonction des ressources à rendre disponibles via VPN.
+
+Exemple — autoriser le RDP depuis OpenVPN :
+
+Ajouter une règle dans **Firewall** → **Rules** → **OpenVPN** :
+
+![image/Attachments 3/G\_Rayeroux\_Procedure\_PriseEnMainPfsense\_15012026(1) 105.png](../../../../../../assets/notes/image/attachments-3/g_rayeroux_procedure_priseenmainpfsense_150120261-105.png)
+
+***
+
+## 7. Test de la connexion RDP via VPN
+
+![image/Attachments 3/Installation\_CISCO\_CSB250\_08012025(1) 36.png](../../../../../../assets/notes/image/attachments-3/installation_cisco_csb250_080120251-36.png)
+![image/Attachments 3/Installation\_CISCO\_CSB250\_08012025(1) 37.png](../../../../../../assets/notes/image/attachments-3/installation_cisco_csb250_080120251-37.png)
+![image/Attachments 3/Installation\_CISCO\_CSB250\_08012025(1) 38.png](../../../../../../assets/notes/image/attachments-3/installation_cisco_csb250_080120251-38.png)
+![image/Attachments 3/Installation\_CISCO\_CSB250\_08012025(1) 39.png](../../../../../../assets/notes/image/attachments-3/installation_cisco_csb250_080120251-39.png)
