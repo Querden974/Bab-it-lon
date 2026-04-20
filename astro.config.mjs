@@ -24,7 +24,7 @@ export default defineConfig({
             collapsed: false,
             collapsedFolders: true,
           },
-          //   skipGeneration: true,
+          skipGeneration: true,
         }),
         starlightSidebarTopics(
           [
