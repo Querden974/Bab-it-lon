@@ -145,12 +145,3 @@ Voir le centre de ressources Routage dans les procédures :
 * [Mise en place d'un serveur temps avec Chrony](/notes/_procédures/centre-de-documents/linux/mise-en-place-dun-serveur-temps-avec-chrony)
 
 :::
-
-:::tip[Références & Formation]
-
-
-* [Dictionnaire](/notes/dictionnaire) — Glossaire des termes IT
-* [Plan Auto-Formation](/notes/plan-auto-formation) — Plan de montée en compétences sur 4 semaines
-* [📋 To-Do List – Implémentation d'un serveur sur Cisco Packet Trace](/notes/-to-do-list--implémentation-dun-serveur-sur-cisco-packet-trace)
-
-:::

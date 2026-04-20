@@ -7,7 +7,8 @@ editUrl: false
 
 ```bash
 name="John"
-age=42readonly PI=3.14
+age=42readonly 
+PI=3.14
 ```
 
 ⚠️ Pas d’espace autour du `=`
@@ -15,7 +16,8 @@ age=42readonly PI=3.14
 ## Utilisation
 
 ```bash
-echo"$name"echo"${name}"
+echo"$name"
+echo"${name}"
 ```
 
 Toujours mettre les variables entre guillemets.
@@ -40,7 +42,7 @@ echo"Arg1: $1"
 Boucle sur tous :
 
 ```bash
-for argin"$@";doecho"$arg"done
+for argin"$@";do echo"$arg"done
 ```
 
 # 🧵 Substitution de commande
@@ -61,11 +63,15 @@ name="hello.txt"echo"${name%.txt}"# helloecho"${name#h}"# ello.txtecho"${#name}"
 # 📚 Tableaux
 
 ```bash
-arr=("a""b""c")echo"${arr[0]}"echo"${arr[@]}"
+arr=("a""b""c")
+echo"${arr[0]}"
+echo"${arr[@]}"
 ```
 
 Boucle :
 
 ```bash
-for ein"${arr[@]}";doecho"$e"done
+for e in"${arr[@]}";do
+	echo"$e"
+done
 ```

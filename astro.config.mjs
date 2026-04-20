@@ -18,7 +18,7 @@ export default defineConfig({
       plugins: [
         // Generate the Obsidian vault pages.
         starlightObsidian({
-          vault: "D:/_OBSIDIAN/Obsidian-Vault/content",
+          vault: "D:/OneDrive/OneDrive - Afpa Angers/Notes TSSR/Astro",
           ignore: ["/notes/CLAUDE"],
           sidebar: {
             collapsed: false,
