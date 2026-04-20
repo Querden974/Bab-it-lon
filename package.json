@@ -12,9 +12,11 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.38.3",
+    "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.0.1",
     "sharp": "^0.34.2",
     "starlight-obsidian": "^0.12.1",
-    "starlight-sidebar-topics": "^0.7.1"
+    "starlight-sidebar-topics": "^0.7.1",
+    "tailwindcss": "^4.2.2"
   }
 }

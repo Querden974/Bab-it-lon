@@ -20,23 +20,33 @@
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
 
-## Next steps
+
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Essentiels" icon="star">
+		Envie de connaîter les bases?
+
+	<a href ="/notes/essentiels/bases-des-réseaux-informatiques/">
+		<button>Voir les bases</button>
+	</a>
+
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
+	<Card title="Procédures" icon="open-book">
+		Retrouvez les différentes procédures réalisées par les stagiaire TSSR de l'AFPA d'Angers
+	
+	<a class="btn" href ="/notes">
+		<button>Voir les procédures</button>
+	</a>
+	
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Glossaire" icon="information">
+		Un mot inconnu? Regarder ici.
+
+	<a class="btn" href ="/notes/glossaire">
+		<button>Cherche les mots</button>
+	</a>
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+	
 </CardGrid>
+
+

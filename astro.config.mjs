@@ -3,6 +3,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightObsidian, { obsidianSidebarGroup } from "starlight-obsidian";
 import starlightSidebarTopics from "starlight-sidebar-topics";
+import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
   integrations: [
@@ -92,4 +93,8 @@ export default defineConfig({
       //   ],
     }),
   ],
+
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });
