@@ -24,7 +24,7 @@ export default defineConfig({
             collapsed: false,
             collapsedFolders: true,
           },
-          skipGeneration: true,
+          //   skipGeneration: true,
         }),
         starlightSidebarTopics(
           [
@@ -43,7 +43,7 @@ export default defineConfig({
             {
               id: "Procédures",
               label: "Procédures",
-              link: "/notes/_procédures/centre-de-documents/ansible",
+              link: "/notes/",
               icon: "open-book",
               items: [
                 {
