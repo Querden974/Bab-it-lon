@@ -1,7 +1,14 @@
 ---
 title: Routage Inter-Vlan
 editUrl: false
+tags:
+  - cisco
+  - réseau
+  - packet-tracer
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 :::note[## Créer les VLAN dans le switch de niveau 3]
 

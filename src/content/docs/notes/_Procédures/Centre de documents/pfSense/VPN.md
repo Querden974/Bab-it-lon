@@ -3,7 +3,7 @@ title: VPN
 editUrl: false
 ---
 
-**Auteur :** Gautier RAYEROUX, Eric JAMET, David GEMAIN  |  **Date :** 08/01/2025
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

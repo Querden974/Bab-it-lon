@@ -3,7 +3,7 @@ title: Installer une imprimante réseau
 editUrl: false
 ---
 
-**Auteur :** Gautier Rayeroux  |  **Date :** 31/10/2025
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

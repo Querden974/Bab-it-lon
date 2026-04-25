@@ -3,6 +3,8 @@ title: Ansible
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 <!-- Column 1 -->
 
 ## 🔎 1. C’est quoi Ansible ?

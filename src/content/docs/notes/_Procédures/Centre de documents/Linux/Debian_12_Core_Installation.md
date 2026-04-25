@@ -3,6 +3,7 @@ title: Debian_12_Core_Installation
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 Lancement de l’installation :
 
 ![Debian\_12\_Core\_Installation](../../../../../../assets/notes/image/attachments/debian_12_core_installation.png)

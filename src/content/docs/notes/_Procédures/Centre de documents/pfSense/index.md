@@ -8,6 +8,8 @@ tags:
   - index
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # pfSense — Centre de Ressources
 
 :::tip[Présentation]

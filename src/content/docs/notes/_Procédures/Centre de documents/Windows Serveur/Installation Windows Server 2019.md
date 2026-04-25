@@ -3,7 +3,7 @@ title: Installation Windows Server 2019
 editUrl: false
 ---
 
-**Auteur :** Gautier Rayeroux  |  **Date :** 11/12/2025
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

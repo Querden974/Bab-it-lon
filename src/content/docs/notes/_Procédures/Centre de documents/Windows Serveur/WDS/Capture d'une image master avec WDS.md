@@ -3,6 +3,8 @@ title: Capture d'une image master avec WDS
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Capture d'une image master avec WDS
 
 :::tip[Objectif]

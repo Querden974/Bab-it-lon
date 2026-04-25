@@ -7,6 +7,8 @@ tags:
   - sonde
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Sondes Personnalisées Zabbix
 
 ## Théorie

@@ -1,7 +1,14 @@
 ---
 title: ACL (AGDLP)
 editUrl: false
+tags:
+  - powershell
+  - scripting
+  - windows
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 # 🧩 **🔹 Modèles d’appartenance Active Directory : AGDLP / AGUDLP**
 

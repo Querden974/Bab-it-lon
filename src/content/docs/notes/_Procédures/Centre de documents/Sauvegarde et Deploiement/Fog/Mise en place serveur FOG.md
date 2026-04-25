@@ -3,6 +3,8 @@ title: Mise en place serveur FOG
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # 1.Installation de FOG Server
 
 ```bash

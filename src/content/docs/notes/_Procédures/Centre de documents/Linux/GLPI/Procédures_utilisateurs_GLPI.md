@@ -3,6 +3,8 @@ title: Procédures_utilisateurs_GLPI
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 ***
 
 ## 1. Activer l'inventaire dans GLPI

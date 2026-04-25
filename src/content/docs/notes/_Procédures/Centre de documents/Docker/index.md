@@ -3,6 +3,8 @@ title: index
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Docker Cheatsheet 🐳
 
 [Dockerfile  Docker-Compose](/notes/_procédures/centre-de-documents/docker/dockerfile--docker-compose)

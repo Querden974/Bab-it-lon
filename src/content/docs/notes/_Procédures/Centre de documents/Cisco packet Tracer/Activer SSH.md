@@ -1,7 +1,14 @@
 ---
 title: Activer SSH
 editUrl: false
+tags:
+  - cisco
+  - réseau
+  - packet-tracer
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 :::caution
 Pour activer le service SSH, le switch doit avoir un mot de passe.

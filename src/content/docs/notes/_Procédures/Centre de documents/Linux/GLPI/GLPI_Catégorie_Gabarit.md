@@ -3,6 +3,8 @@ title: GLPI_Catégorie_Gabarit
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # 1 Ajouter une catégorie
 
 ![GLPI\_Catégorie\_Gabarit](../../../../../../../assets/notes/image/attachments/glpi_catégorie_gabarit.png)![GLPI\_Catégorie\_Gabarit](../../../../../../../assets/notes/image/attachments/glpi_catégorie_gabarit-1.png)![GLPI\_Catégorie\_Gabarit](../../../../../../../assets/notes/image/attachments/glpi_catégorie_gabarit-2.png)

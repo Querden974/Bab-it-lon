@@ -3,6 +3,7 @@ title: Domaine de collision et de diffusion
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 Comprendre comment les commutateurs (switch) organisent le trafic réseau en isolant
 les *domaines de collision* et les *domaines de diffusion*, et pourquoi ces concepts sont essentiels pour éviter la congestion.
 

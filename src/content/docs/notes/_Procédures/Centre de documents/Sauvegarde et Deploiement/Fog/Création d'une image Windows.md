@@ -3,6 +3,8 @@ title: Création d'une image Windows
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # 1. Personnaliser le master
 
 * Installer Windows puis effectuer la personnalisation nécessaire avant d'effectuer la création de l'image en installant/désinstallant les logiciels souhaité

@@ -3,6 +3,8 @@ title: SNMP Cisco
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # SNMP Cisco CBS 250 → Zabbix
 
 ## Prérequis

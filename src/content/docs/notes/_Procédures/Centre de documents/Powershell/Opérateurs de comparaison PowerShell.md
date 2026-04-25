@@ -1,8 +1,14 @@
 ---
 title: Opérateurs de comparaison PowerShell
 editUrl: false
+tags:
+  - powershell
+  - scripting
+  - windows
+  - index
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 PowerShell utilise des opérateurs sous forme de **mots-clés**, toujours **insensibles à la casse**.
 
 ***

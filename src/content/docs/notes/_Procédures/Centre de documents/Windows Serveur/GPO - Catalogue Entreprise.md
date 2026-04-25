@@ -3,7 +3,7 @@ title: GPO - Catalogue Entreprise
 editUrl: false
 ---
 
-**Auteur :** Gautier Rayeroux  |  **Date :** 21/04/2026
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

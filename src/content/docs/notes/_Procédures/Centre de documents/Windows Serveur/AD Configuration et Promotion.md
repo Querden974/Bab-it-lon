@@ -3,6 +3,8 @@ title: AD Configuration et Promotion
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 ![AD Configuration et Promotion](../../../../../../assets/notes/image/attachments/ad-configuration-et-promotion.png)
 
 **Vérification des prérequis :**

@@ -3,7 +3,7 @@ title: Importer CSV GLPI
 editUrl: false
 ---
 
-**Auteur :** Gautier Rayeroux  |  **Date :** 24/11/2025
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

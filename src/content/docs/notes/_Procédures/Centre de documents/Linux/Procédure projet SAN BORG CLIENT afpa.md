@@ -3,6 +3,8 @@ title: Procédure projet SAN BORG CLIENT afpa
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 Prérequis à la mise en place de la procédure :
 
 Table adressage IP

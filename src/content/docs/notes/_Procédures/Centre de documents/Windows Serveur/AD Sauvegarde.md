@@ -3,6 +3,8 @@ title: AD Sauvegarde
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Installation Windows Server Backup :
 
 ![AD Sauvegarde](../../../../../../assets/notes/image/attachments/ad-sauvegarde.png)

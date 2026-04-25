@@ -3,6 +3,8 @@ title: Gestion d'utilisateurs
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Création de comptes utilisateurs et attribution des droits
 
 ### Ajouter AccessControl

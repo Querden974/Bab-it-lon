@@ -1,7 +1,14 @@
 ---
 title: Active Directory
 editUrl: false
+tags:
+  - powershell
+  - scripting
+  - windows
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 # 🧩 **Active Directory (AD)**
 

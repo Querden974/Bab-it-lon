@@ -1,7 +1,14 @@
 ---
 title: Active directory (Core)
 editUrl: false
+tags:
+  - powershell
+  - scripting
+  - windows
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ## Installation du rôle Active Directory
 

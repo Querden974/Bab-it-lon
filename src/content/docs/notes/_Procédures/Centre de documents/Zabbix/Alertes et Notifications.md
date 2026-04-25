@@ -8,6 +8,8 @@ tags:
   - trigger
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Alertes et Notifications Zabbix
 
 ## Principe général

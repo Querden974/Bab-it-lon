@@ -7,6 +7,8 @@ tags:
   - index
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Zabbix — Centre de Ressources
 
 :::tip[Présentation]

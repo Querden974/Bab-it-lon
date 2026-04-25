@@ -3,6 +3,8 @@ title: SAN Debian12 2
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Passer la machine debian en IP statique
 
 ```sh

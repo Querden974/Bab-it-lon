@@ -6,6 +6,8 @@ tags:
   - référence
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Glossaire collaboratif
 
 > Référence collaborative des termes informatiques classés par ordre alphabétique.

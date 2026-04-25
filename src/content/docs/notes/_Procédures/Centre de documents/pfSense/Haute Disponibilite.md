@@ -3,7 +3,7 @@ title: Haute Disponibilite
 editUrl: false
 ---
 
-**Auteur :** Gautier RAYEROUX  |  **Date :** 15/01/2026
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

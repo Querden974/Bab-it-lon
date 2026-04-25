@@ -8,6 +8,8 @@ tags:
   - astuces
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # VLSM — Astuces de découpage réseau
 
 :::tip[C'est quoi le VLSM ?]

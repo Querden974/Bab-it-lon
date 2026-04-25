@@ -7,7 +7,7 @@ tags:
   - installation
 ---
 
-**Auteur :** Gautier RAYEROUX  |  **Date :** 09/03/2026
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

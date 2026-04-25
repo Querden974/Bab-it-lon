@@ -3,7 +3,7 @@ title: Installer un serveur GLPI sous Ubuntu
 editUrl: false
 ---
 
-**Auteur :** Gautier  |  **Date :** 31/10/2025  |  **Version GLPI :** 11.0.2
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

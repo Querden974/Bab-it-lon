@@ -3,6 +3,8 @@ title: CloneZilla
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 ## Prérequis à la mise en place de la procédure 
 
 Posséder un support avec une ISO de Clonezilla

@@ -3,6 +3,8 @@ title: Regex
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 ## 🏗 Structure de Base
 
 Les regex sont entourées de `/` et peuvent inclure des modificateurs :

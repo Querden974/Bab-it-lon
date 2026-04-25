@@ -1,7 +1,14 @@
 ---
 title: 🧪 Try - Catch en BASH (avec trap)
 editUrl: false
+tags:
+  - bash
+  - scripting
+  - linux
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 Bash n’a pas de try/catch natif, on simule :
 

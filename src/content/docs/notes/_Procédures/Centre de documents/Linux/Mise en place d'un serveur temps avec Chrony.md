@@ -3,7 +3,7 @@ title: Mise en place d'un serveur temps avec Chrony
 editUrl: false
 ---
 
-**Auteur :** Gautier Rayeroux  |  **Date :** 24/02/2026
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

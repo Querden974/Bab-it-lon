@@ -3,6 +3,8 @@ title: 🛠️ Utilitaires système indispensables
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 | Utilitaire                        | Commande d’accès | Description courte                                                 |
 | --------------------------------- | ---------------- | ------------------------------------------------------------------ |
 | **Services**                      | `services.msc`   | Affiche tous les services Windows (démarrage, arrêt, statut)       |

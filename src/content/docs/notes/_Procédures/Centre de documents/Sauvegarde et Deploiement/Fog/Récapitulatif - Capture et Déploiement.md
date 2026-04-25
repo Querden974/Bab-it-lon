@@ -3,6 +3,8 @@ title: Récapitulatif - Capture et Déploiement
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Récapitulatif — Capture et Déploiement d'image FOG
 
 :::tip[Prérequis]

@@ -1,7 +1,14 @@
 ---
 title: Paramétrer les VLAN
 editUrl: false
+tags:
+  - cisco
+  - réseau
+  - packet-tracer
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 # Créer des VLAN
 

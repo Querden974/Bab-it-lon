@@ -8,6 +8,8 @@ tags:
   - index
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # FOG Project — Centre de Ressources
 
 :::tip[Présentation]

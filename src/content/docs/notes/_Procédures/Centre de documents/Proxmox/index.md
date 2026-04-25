@@ -8,6 +8,8 @@ tags:
   - index
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Proxmox VE — Centre de Ressources
 
 :::tip[Présentation]

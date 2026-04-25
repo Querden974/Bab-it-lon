@@ -1,7 +1,14 @@
 ---
 title: 📋 To-Do List – Implémentation d’un serveur sur Cisco Packet Trace
 editUrl: false
+tags:
+  - cisco
+  - réseau
+  - packet-tracer
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ### 1️.**Préparation & Planification**
 

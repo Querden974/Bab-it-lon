@@ -3,7 +3,7 @@ title: Installation d'applications Docker
 editUrl: false
 ---
 
-**Auteur :** Gautier  |  **Date :** 03/02/2026
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ***
 

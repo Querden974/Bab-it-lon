@@ -3,6 +3,8 @@ title: Calcul sous-réseau
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 ## 🔹 Déterminer les adresses de tous les sous-réseaux
 
 ### 1️⃣ Identifier le masque étendu

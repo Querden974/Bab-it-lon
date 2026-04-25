@@ -3,6 +3,8 @@ title: Mise en place d'un serveur DNS (Bind9)
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Installation serveur DNS
 
 ## a. Installer bind9

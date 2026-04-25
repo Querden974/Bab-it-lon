@@ -7,6 +7,8 @@ tags:
   - tssr
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # TSSR — Dashboard
 
 :::tip[Vue d'ensemble]

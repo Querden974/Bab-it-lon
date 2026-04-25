@@ -1,7 +1,14 @@
 ---
 title: 🔀 Conditions
 editUrl: false
+tags:
+  - bash
+  - scripting
+  - linux
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ## if
 

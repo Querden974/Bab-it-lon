@@ -3,6 +3,8 @@ title: Installation agent Zabbix passif (Linux)
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Installation d'un agent Zabbix passif sur Linux
 
 :::note[Mode passif]

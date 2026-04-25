@@ -3,6 +3,7 @@ title: AD Corbeille
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 Prérequis à la mise en place de la procédure :
 
 Niveau fonctionnel de la forêt `**Windows Server 2008 R2 ou supérieur**`

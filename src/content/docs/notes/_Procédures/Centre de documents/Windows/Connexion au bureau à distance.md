@@ -3,6 +3,8 @@ title: Connexion au bureau à distance
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Configuration du bureau à distance
 
 <!-- Column 1 -->

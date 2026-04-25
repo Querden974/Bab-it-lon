@@ -8,6 +8,8 @@ tags:
   - discovery
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Prototypes LLD — Item, Trigger et Graph
 
 :::tip[Qu'est-ce que le LLD ?]

@@ -3,6 +3,7 @@ title: Utiliser les VLAN pour réduire les domaines de diffusion
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 Les **VLAN**  assurent la **segmentation** et favorisent la flexibilité de l’entreprise. Les VLAN (**VitualLAN**) reposent sur des **connexions logiques** et non sur des connexions physiques.
 
 :::tip[💡]

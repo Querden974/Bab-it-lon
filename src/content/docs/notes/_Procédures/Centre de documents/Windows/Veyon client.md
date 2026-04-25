@@ -3,6 +3,8 @@ title: Veyon client
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Installation
 
 ![Veyon client](../../../../../../assets/notes/image/attachments/veyon-client.png)

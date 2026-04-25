@@ -3,6 +3,8 @@ title: 🧑‍💼 Active Directory (Niveau 1 et 2)
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 ## 🗂️ Interface Graphique (RSAT / ADUC)
 
 | Action                                       | Où / Comment                                                         |

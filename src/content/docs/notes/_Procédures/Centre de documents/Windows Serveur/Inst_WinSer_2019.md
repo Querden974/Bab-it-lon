@@ -3,6 +3,8 @@ title: Inst_WinSer_2019
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 Prérequis à la mise en place de la procédure :
 
 ISO windows server (2019)

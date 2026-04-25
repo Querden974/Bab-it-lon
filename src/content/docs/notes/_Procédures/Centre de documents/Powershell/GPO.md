@@ -1,7 +1,14 @@
 ---
 title: GPO
 editUrl: false
+tags:
+  - powershell
+  - scripting
+  - windows
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 # 🏛️ **🔹 Gestion des GPO (Group Policy Objects)**
 

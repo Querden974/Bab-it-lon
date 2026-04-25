@@ -1,7 +1,14 @@
 ---
 title: Configuration basique
 editUrl: false
+tags:
+  - cisco
+  - réseau
+  - packet-tracer
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 # Définir un nom de switch
 

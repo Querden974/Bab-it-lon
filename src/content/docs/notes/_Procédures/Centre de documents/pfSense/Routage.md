@@ -3,6 +3,8 @@ title: Routage
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 ## 1. Création des routes statiques VLAN
 
 Aller dans **System** → **Routing** → **Static Routes** pour créer les routes vers chaque VLAN.

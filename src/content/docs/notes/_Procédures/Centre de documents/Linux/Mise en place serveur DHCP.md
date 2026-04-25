@@ -3,6 +3,8 @@ title: Mise en place serveur DHCP
 editUrl: false
 ---
 
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+
 # Installation serveur DHCP
 
 ## a. Installer le serveur

@@ -1,7 +1,14 @@
 ---
 title: 🧱 Fonctions
 editUrl: false
+tags:
+  - bash
+  - scripting
+  - linux
+  - index
 ---
+
+**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
 
 ```bash
 my_func() {local name="$1"echo"Hello $name"
