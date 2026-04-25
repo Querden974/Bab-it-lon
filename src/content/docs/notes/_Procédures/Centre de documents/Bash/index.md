@@ -8,7 +8,7 @@ tags:
   - index
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-15 00:00:00
 
 # Bash — Centre de Ressources
 

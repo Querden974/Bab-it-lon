@@ -3,7 +3,7 @@ title: Commandes Windows
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :**   |  **Date :**
 
 # 🪟 Cheatsheet – Commandes Windows utiles en maintenance informatique
 

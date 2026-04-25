@@ -3,7 +3,7 @@ title: TightVNC_Prise_En_Main_Distance
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2026-11-20 00:00:00
 ![TightVNC\_Prise\_En\_Main\_Distance](../../../../../../assets/notes/image/attachments/tightvnc_prise_en_main_distance.png)
 
 **1**

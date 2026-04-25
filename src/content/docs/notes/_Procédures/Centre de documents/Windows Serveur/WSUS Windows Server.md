@@ -3,7 +3,7 @@ title: WSUS Windows Server
 editUrl: false
 ---
 
-**Auteur :** Gautier Rayeroux  |  **Date :** 21/04/2026
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-21 00:00:00
 
 ***
 

@@ -3,7 +3,7 @@ title: Importer des données dans GLPI
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-03-08 18:53:00
 
 ***
 

@@ -3,7 +3,7 @@ title: General
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** \['Gautier RAYEROUX', 'Eric JAMET', 'David GEMAIN']  |  **Date :** 2025-01-08
 
 ***
 

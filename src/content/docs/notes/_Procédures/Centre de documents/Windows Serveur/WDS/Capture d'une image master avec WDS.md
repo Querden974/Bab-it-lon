@@ -3,7 +3,7 @@ title: Capture d'une image master avec WDS
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-15 00:00:00
 
 # Capture d'une image master avec WDS
 

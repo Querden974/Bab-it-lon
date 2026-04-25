@@ -8,7 +8,7 @@ tags:
   - index
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-15 13:29:00
 
 # FOG Project — Centre de Ressources
 

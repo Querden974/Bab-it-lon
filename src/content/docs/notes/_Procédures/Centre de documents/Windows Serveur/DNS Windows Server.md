@@ -3,7 +3,7 @@ title: DNS Windows Server
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-21 00:00:00
 
 ***
 

@@ -3,7 +3,7 @@ title: Procédures_utilisateurs_GLPI
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** \['God IBRAHIM', 'Alexander BINDER', 'Louis MALONGA NZEMBE']  |  **Date :** 2026-02-18 00:00:00
 
 ***
 

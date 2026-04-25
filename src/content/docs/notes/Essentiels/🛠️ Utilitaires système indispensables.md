@@ -3,7 +3,7 @@ title: 🛠️ Utilitaires système indispensables
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :**   |  **Date :**
 
 | Utilitaire                        | Commande d’accès | Description courte                                                 |
 | --------------------------------- | ---------------- | ------------------------------------------------------------------ |

@@ -3,7 +3,7 @@ title: Changement_Adresse_IP
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2025-11-20 00:00:00
 ***Procédure changement adresse IP***
 
 Désactiver DHCP pou passer en adresse IP statique sur Windows 10 professionnel

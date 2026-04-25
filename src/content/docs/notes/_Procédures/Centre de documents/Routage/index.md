@@ -8,7 +8,7 @@ tags:
   - index
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-01 13:36:00
 
 # Routage — Centre de Ressources
 

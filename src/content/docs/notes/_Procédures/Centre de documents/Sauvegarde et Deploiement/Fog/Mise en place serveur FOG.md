@@ -3,7 +3,7 @@ title: Mise en place serveur FOG
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-14 09:35:00
 
 # 1.Installation de FOG Server
 

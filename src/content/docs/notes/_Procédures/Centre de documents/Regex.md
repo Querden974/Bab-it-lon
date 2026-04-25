@@ -3,7 +3,7 @@ title: Regex
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** \['Gautier RAYEROUX']  |  **Date :** 2026-04-25 13:54:00
 
 ## 🏗 Structure de Base
 

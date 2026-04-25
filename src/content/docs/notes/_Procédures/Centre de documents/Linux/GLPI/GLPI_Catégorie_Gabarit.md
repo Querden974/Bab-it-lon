@@ -3,7 +3,7 @@ title: GLPI_Catégorie_Gabarit
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2025-12-02 00:00:00
 
 # 1 Ajouter une catégorie
 

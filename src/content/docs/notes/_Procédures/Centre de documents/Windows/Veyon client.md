@@ -3,7 +3,7 @@ title: Veyon client
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2026-04-02 00:00:00
 
 # Installation
 

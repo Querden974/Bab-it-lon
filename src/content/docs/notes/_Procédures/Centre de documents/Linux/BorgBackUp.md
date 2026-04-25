@@ -3,7 +3,7 @@ title: BorgBackUp
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2026-03-10 00:00:00
 
 Prérequis : avoir une machine sous Debian (ici Debian 12)
 

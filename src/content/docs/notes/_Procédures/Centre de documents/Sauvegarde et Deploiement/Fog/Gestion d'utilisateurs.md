@@ -3,7 +3,7 @@ title: Gestion d'utilisateurs
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** \['Gautier RAYEROUX']  |  **Date :** 2026-04-13 14:26:00
 
 # Création de comptes utilisateurs et attribution des droits
 

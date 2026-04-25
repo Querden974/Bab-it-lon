@@ -3,7 +3,7 @@ title: Inst_WinSer_2019
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2025-12-08 00:00:00
 
 Prérequis à la mise en place de la procédure :
 

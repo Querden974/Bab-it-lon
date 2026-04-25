@@ -3,7 +3,7 @@ title: 🧑‍💼 Active Directory (Niveau 1 et 2)
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** \['Gautier RAYEROUX']  |  **Date :** 2026-04-25 14:24:00
 
 ## 🗂️ Interface Graphique (RSAT / ADUC)
 

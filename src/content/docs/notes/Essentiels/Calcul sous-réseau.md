@@ -3,7 +3,7 @@ title: Calcul sous-réseau
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :**   |  **Date :**
 
 ## 🔹 Déterminer les adresses de tous les sous-réseaux
 

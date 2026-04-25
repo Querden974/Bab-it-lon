@@ -3,7 +3,7 @@ title: Administration Active Directory
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-03-08 19:01:00
 
 ***
 

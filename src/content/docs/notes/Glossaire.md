@@ -6,7 +6,7 @@ tags:
   - référence
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :**   |  **Date :**
 
 # Glossaire collaboratif
 

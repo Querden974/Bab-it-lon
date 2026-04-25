@@ -3,7 +3,7 @@ title: AD Configuration et Promotion
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2025-12-10 11:16:00
 
 ![AD Configuration et Promotion](../../../../../../assets/notes/image/attachments/ad-configuration-et-promotion.png)
 

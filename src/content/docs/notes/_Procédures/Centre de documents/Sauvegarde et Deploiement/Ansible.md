@@ -3,7 +3,7 @@ title: Ansible
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-02-24 00:00:00
 
 <!-- Column 1 -->
 

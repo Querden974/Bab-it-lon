@@ -3,7 +3,7 @@ title: Mise en place d'une machine virtuelle
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-03-08 18:44:00
 
 ***
 

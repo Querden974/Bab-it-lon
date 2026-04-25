@@ -7,7 +7,7 @@ tags:
   - index
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-04-15 13:32:00
 
 # Zabbix — Centre de Ressources
 

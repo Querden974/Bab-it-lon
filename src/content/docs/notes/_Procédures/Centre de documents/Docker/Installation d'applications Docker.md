@@ -3,7 +3,7 @@ title: Installation d'applications Docker
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2026-03-08 18:54:00
 
 ***
 

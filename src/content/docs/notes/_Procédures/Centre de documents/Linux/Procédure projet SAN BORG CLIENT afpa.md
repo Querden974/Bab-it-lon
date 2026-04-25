@@ -3,7 +3,7 @@ title: Procédure projet SAN BORG CLIENT afpa
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2026-03-18 09:00:00
 
 Prérequis à la mise en place de la procédure :
 

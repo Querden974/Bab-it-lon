@@ -3,7 +3,7 @@ title: Connexion au bureau à distance
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Gautier RAYEROUX  |  **Date :** 2025-12-04 09:37:00
 
 # Configuration du bureau à distance
 

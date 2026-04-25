@@ -3,7 +3,7 @@ title: Création d'une image Windows
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** \['Gautier RAYEROUX']  |  **Date :** 2026-04-13 14:27:00
 
 # 1. Personnaliser le master
 

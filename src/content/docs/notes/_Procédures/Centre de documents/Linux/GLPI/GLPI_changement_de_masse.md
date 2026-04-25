@@ -3,7 +3,7 @@ title: GLPI_changement_de_masse
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2025-11-20 00:00:00
 Pour apporter des modifications sur plusieurs tickets à la fois :
 
 ![GLPI\_changement\_de\_masse](../../../../../../../assets/notes/image/attachments/glpi_changement_de_masse.png)

@@ -3,7 +3,7 @@ title: SAN Debian12 2
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** Maxime COURBOULIN  |  **Date :** 2026-03-18 00:00:00
 
 # Passer la machine debian en IP statique
 

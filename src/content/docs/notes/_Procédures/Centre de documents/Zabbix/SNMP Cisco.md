@@ -3,7 +3,7 @@ title: SNMP Cisco
 editUrl: false
 ---
 
-**Auteur :** `=this["Créée par"]`  |  **Date :** `=this["Date de création"]`
+**Auteur :** \['Gautier RAYEROUX']  |  **Date :** 2026-04-08 00:00:00
 
 # SNMP Cisco CBS 250 → Zabbix
 
